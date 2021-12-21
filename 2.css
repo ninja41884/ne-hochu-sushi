@@ -1,0 +1,4 @@
+body{margin: 0; padding: 0;}
+.side{width: 300; height: 100%; float: left; background-color: lightgreen;}
+.sideknopki{width: auto; height: 60; background-color: wheat; margin-left: 5%; margin-right: 5%; margin-top: 5%; font-size: 2.5em;}
+.sideknopka1{width: auto; height: 60; background-color: wheat; margin-left: 5%; margin-right: 5%; margin-top: 0%; font-size: 1em;}
